@@ -1,4 +1,4 @@
-# 工程简介
+# end-Code
 
-# 延伸阅读
+this is crud end-Code,it has many bug, this project just be used  to deal with database experiment which teached by dc
 
