@@ -1,4 +1,4 @@
-# vueclidemo
+# front-code
 
 ## Project setup
 ```
@@ -16,6 +16,7 @@ yarn build
 ```
 
 ### Lints and fixes files
+
 ```
 yarn lint
 ```
@@ -24,4 +25,6 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### End Code
- see in branch end-code and this project can be improved more and more
+```
+ see in branch end-code and this project can be improved more and more and first it can be used to test release front-end code with nginx
+```
